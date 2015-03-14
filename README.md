@@ -1,6 +1,6 @@
 # Redlight redmine theme #
 
-Altered version of the Flatly Light Redmine theme distributed by Nitrino (https://github.com/Nitrino/flatly_light_redmine) and icons from Excedalogic/ in the Metro Redmine theme (https://github.com/excedalogic/metro_redmine)
+Altered version of the Flatly Light Redmine theme distributed by Nitrino (https://github.com/Nitrino/flatly_light_redmine) and icons from Excedalogic in the Metro Redmine theme (https://github.com/excedalogic/metro_redmine)
 
 ## Installation
 
