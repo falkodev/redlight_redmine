@@ -1,5 +1,7 @@
 # Redlight redmine theme #
 
+Altered version of the Flatly Light Redmine theme distributed by Nitrino (https://github.com/Nitrino/flatly_light_redmine) and icons from Excedalogic/ in the Metro Redmine theme (https://github.com/excedalogic/metro_redmine)
+
 ## Installation
 
 * Download the theme
@@ -32,3 +34,6 @@ To activate the static sidebar set `var activeStaticSidebar = true` in `javascri
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new pull Request
+
+## Thanks
+Thanks to Nitrino and Excedalogic for their inspiring themes
